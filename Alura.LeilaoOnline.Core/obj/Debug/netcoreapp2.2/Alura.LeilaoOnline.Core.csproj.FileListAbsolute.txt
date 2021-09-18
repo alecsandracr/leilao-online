@@ -1,0 +1,9 @@
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.deps.json
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.csprojAssemblyReference.cache
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb

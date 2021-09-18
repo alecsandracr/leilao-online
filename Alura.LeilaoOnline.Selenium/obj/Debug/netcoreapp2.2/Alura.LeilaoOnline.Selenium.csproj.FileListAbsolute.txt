@@ -1,0 +1,14 @@
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.deps.json
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.runtimeconfig.json
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.runtimeconfig.dev.json
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.pdb
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.csprojAssemblyReference.cache
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.csproj.CoreCompileInputs.cache
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.AssemblyInfoInputs.cache
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.AssemblyInfo.cs
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.dll
+D:\Projetos\Selenium.Tests\Alura.LeilaoOnline.Selenium\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Selenium.pdb
